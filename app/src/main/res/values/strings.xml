@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Korean</string>
+    <!-- Nama Aplikasi -->
+    <string name="app_name" translatable="false">Korean</string>
+
+    <!-- Pilihan metode pembayaran -->
+    <string-array name="payment_methods">
+        <item>DANA</item>
+        <item>GoPay</item>
+        <item>Bank Transfer</item>
+        <item>OVO</item>
+        <item>Kartu Kredit</item>
+    </string-array>
 </resources>

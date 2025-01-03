@@ -16,6 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/img" />
 
+
     <Button
         android:id="@+id/button"
         android:layout_width="359dp"
@@ -23,17 +24,15 @@
         android:text="Sigh Up"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.863" />
-
+        app:layout_constraintVertical_bias="0.838" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="548dp"
+        android:layout_marginTop="512dp"
         android:text="Pesan langsung dari ponselmu,"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
@@ -45,7 +44,7 @@
         android:id="@+id/textBawah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="564dp"
+        android:layout_marginTop="528dp"
         android:text="lebih cepat dan praktis"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
@@ -57,7 +56,7 @@
         android:id="@+id/textLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="644dp"
+        android:layout_marginTop="616dp"
         android:text="Sudah Punya Akun?"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
@@ -68,11 +67,10 @@
         android:id="@+id/textLogin2"
         android:layout_width="359dp"
         android:layout_height="48dp"
-        android:layout_marginTop="664dp"
+        android:layout_marginTop="632dp"
         android:text="Sigh In?"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"></Button>
 

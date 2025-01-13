@@ -6,6 +6,21 @@ StoryBoard
 
 Laporan project aplikasi Korean
 
+Menu untuk memilih register dan login
+
+![Gambar WhatsApp 2025-01-13 pukul 20 26 39_14d62ed2](https://github.com/user-attachments/assets/f9a5790c-bc5e-4c5e-915a-59adb90fb21f) 
+
+
+Menu Register
+
+![Gambar WhatsApp 2025-01-13 pukul 20 27 03_42956048](https://github.com/user-attachments/assets/74395a81-137f-4ece-934e-564bb14f3cf7)
+
+Menu Login
+
+
+![Gambar WhatsApp 2025-01-13 pukul 20 26 39_6920232d](https://github.com/user-attachments/assets/1e211f44-f26a-42a9-bd1d-0b8af942e225)
+
+
 
 Home
 
